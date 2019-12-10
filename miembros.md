@@ -1,5 +1,6 @@
 # Miembros
 
+* Nick el Blando
 * Capitán America
 * Black panther
 * Black Widow
